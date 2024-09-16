@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gviFwD8GBb4=",
+  "dgSpecHash": "uIAi6YCiEGQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Fitnesstracker.csproj",
+  "projectFilePath": "C:\\GIT\\Capstone\\Fitnesstracker\\Fitnesstracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diama\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\diama\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

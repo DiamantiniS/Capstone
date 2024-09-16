@@ -11,16 +11,13 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-
-
-
 namespace Fitnesstracker.Controllers
 {
     [Authorize]
     public class BodyweightController : Controller
     {
-        private IBodyweightStorageService storageService;
-        private UserManager<FitnessUser> userManager;
+        private readonly IBodyweightStorageService storageService;
+        private readonly UserManager<FitnessUser> userManager;
 
         public BodyweightController(IBodyweightStorageService StorageService, UserManager<FitnessUser> UserManager)
         {
@@ -28,14 +25,16 @@ namespace Fitnesstracker.Controllers
             this.userManager = UserManager;
         }
 
-        private async Task<FitnessUser> GetUser()
+        private async Task<FitnessUser?> GetUser()
         {
             return await userManager.GetUserAsync(HttpContext.User);
         }
 
         public async Task<IActionResult> Summary()
         {
-            FitnessUser currentUser = await GetUser();
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             IEnumerable<BodyweightRecord> records = await storageService.GetBodyweightRecords(currentUser);
             BodyweightTarget target = await storageService.GetBodyweightTarget(currentUser);
@@ -48,7 +47,9 @@ namespace Fitnesstracker.Controllers
         [HttpGet]
         public async Task<IActionResult> EditTarget()
         {
-            FitnessUser currentUser = await GetUser();
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             BodyweightTarget target = await storageService.GetBodyweightTarget(currentUser);
 
@@ -61,8 +62,9 @@ namespace Fitnesstracker.Controllers
             if (TargetWeight <= 0 || TargetWeight >= 200 || TargetDate <= DateTime.Today)
                 return BadRequest();
 
-            FitnessUser currentUser = await GetUser();
-
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             BodyweightTarget newTarget = await storageService.GetBodyweightTarget(currentUser);
             if (newTarget == null)
@@ -82,7 +84,9 @@ namespace Fitnesstracker.Controllers
         [HttpGet]
         public async Task<IActionResult> EditRecords()
         {
-            FitnessUser currentUser = await GetUser();
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             BodyweightRecord[] records = await storageService.GetBodyweightRecords(currentUser);
 
@@ -103,7 +107,9 @@ namespace Fitnesstracker.Controllers
                     return BadRequest();
             }
 
-            FitnessUser currentUser = await GetUser();
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             await storageService.DeleteExistingRecords(currentUser);
 
@@ -129,7 +135,9 @@ namespace Fitnesstracker.Controllers
             if (Weight <= 0 || Weight >= 200)
                 return BadRequest();
 
-            FitnessUser currentUser = await GetUser();
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             BodyweightRecord newRecord = new BodyweightRecord()
             {
@@ -145,7 +153,9 @@ namespace Fitnesstracker.Controllers
         [HttpGet]
         public async Task<IActionResult> GetBodyweightData(int PreviousDays)
         {
-            FitnessUser currentUser = await GetUser();
+            FitnessUser? currentUser = await GetUser();
+            if (currentUser == null)
+                return Unauthorized();
 
             BodyweightRecord[] records = await storageService.GetBodyweightRecords(currentUser, true);
 

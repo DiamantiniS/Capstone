@@ -4559,11 +4559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Fitnesstracker.csproj",
+      "projectUniqueName": "C:\\GIT\\Capstone\\Fitnesstracker\\Fitnesstracker.csproj",
       "projectName": "Fitnesstracker",
-      "projectPath": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Fitnesstracker.csproj",
+      "projectPath": "C:\\GIT\\Capstone\\Fitnesstracker\\Fitnesstracker.csproj",
       "packagesPath": "C:\\Users\\diama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\obj\\",
+      "outputPath": "C:\\GIT\\Capstone\\Fitnesstracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

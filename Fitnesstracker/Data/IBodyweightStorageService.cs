@@ -13,6 +13,5 @@ namespace Fitnesstracker.Data
         public Task StoreBodyweightRecords(IEnumerable<BodyweightRecord> Records);
         public Task DeleteExistingRecords(FitnessUser User);
         public Task StoreBodyweightTarget(BodyweightTarget Target);
-
     }
 }
