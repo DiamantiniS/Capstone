@@ -1,0 +1,1272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\data\\igoalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:data\\igoalstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\bodyweight\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\bodyweight\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\controllers\\bodyweightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:controllers\\bodyweightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\viewmodels\\bodyweightsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:viewmodels\\bodyweightsummaryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\bodyweight\\editrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\bodyweight\\editrecords.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\data\\ibodyweightstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:data\\ibodyweightstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\identityhostingstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\identityhostingstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\viewmodels\\goalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:viewmodels\\goalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\viewmodels\\addgoalprogressinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:viewmodels\\addgoalprogressinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\timedgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\timedgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\servingunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\servingunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\nutritiontarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\nutritiontarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\foodrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\foodrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\fitnessuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\fitnessuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\bodyweightrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\bodyweightrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\data\\bodyweightefstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:data\\bodyweightefstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\goal\\viewgoal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\goal\\viewgoal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\nutrition\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\nutrition\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\showrecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\views\\nutrition\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\nutrition\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\controllers\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:controllers\\goalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\viewmodels\\editgoalinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:viewmodels\\editgoalinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\data\\goalefstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:data\\goalefstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\workoutplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\workoutactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\workoutactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\weightliftingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\weightliftingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\weightliftinggoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\weightliftinggoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\timedprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\timedprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\goalprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\goalprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\users\\diama\\desktop\\fitnesstraker\\fitnesstracker\\models\\bodyweighttarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:models\\bodyweighttarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editrecords.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Bodyweight\\editrecords.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bodyweight\\editrecords.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Bodyweight\\editrecords.cshtml",
+              "RelativeToolTip": "Views\\Bodyweight\\editrecords.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T17:46:47.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-15T17:43:54.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T17:21:04.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Bodyweight\\summary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bodyweight\\summary.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Bodyweight\\summary.cshtml",
+              "RelativeToolTip": "Views\\Bodyweight\\summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:34:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimedGoal.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\TimedGoal.cs",
+              "RelativeDocumentMoniker": "Models\\TimedGoal.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\TimedGoal.cs",
+              "RelativeToolTip": "Models\\TimedGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:44:34.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BodyweightSummaryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\BodyweightSummaryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BodyweightSummaryViewModel.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\BodyweightSummaryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BodyweightSummaryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:23:12.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoalViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\GoalViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GoalViewModel.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\GoalViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GoalViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:22:46.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:28:46.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:15:50.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:31:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BodyweightController.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\BodyweightController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BodyweightController.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\BodyweightController.cs",
+              "RelativeToolTip": "Controllers\\BodyweightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:48:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServingUnit.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\ServingUnit.cs",
+              "RelativeDocumentMoniker": "Models\\ServingUnit.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\ServingUnit.cs",
+              "RelativeToolTip": "Models\\ServingUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:43:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGoalStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\IGoalStorageService.cs",
+              "RelativeDocumentMoniker": "Data\\IGoalStorageService.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\IGoalStorageService.cs",
+              "RelativeToolTip": "Data\\IGoalStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:53:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T18:01:51.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBodyweightStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\IBodyweightStorageService.cs",
+              "RelativeDocumentMoniker": "Data\\IBodyweightStorageService.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\IBodyweightStorageService.cs",
+              "RelativeToolTip": "Data\\IBodyweightStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:53:31.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NutritionTarget.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\NutritionTarget.cs",
+              "RelativeDocumentMoniker": "Models\\NutritionTarget.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\NutritionTarget.cs",
+              "RelativeToolTip": "Models\\NutritionTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:43:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\Goal.cs",
+              "RelativeDocumentMoniker": "Models\\Goal.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\Goal.cs",
+              "RelativeToolTip": "Models\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:42:48.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:55.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FoodRecord.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\FoodRecord.cs",
+              "RelativeDocumentMoniker": "Models\\FoodRecord.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\FoodRecord.cs",
+              "RelativeToolTip": "Models\\FoodRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:42:18.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FitnessUser.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\FitnessUser.cs",
+              "RelativeDocumentMoniker": "Models\\FitnessUser.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\FitnessUser.cs",
+              "RelativeToolTip": "Models\\FitnessUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:41:39.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BodyweightRecord.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\BodyweightRecord.cs",
+              "RelativeDocumentMoniker": "Models\\BodyweightRecord.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\BodyweightRecord.cs",
+              "RelativeToolTip": "Models\\BodyweightRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:40:29.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:34:41.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IdentityHostingStartup.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\IdentityHostingStartup.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\IdentityHostingStartup.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\IdentityHostingStartup.cs",
+              "RelativeToolTip": "Areas\\Identity\\IdentityHostingStartup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:57.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddGoalProgressInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\AddGoalProgressInputModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddGoalProgressInputModel.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\AddGoalProgressInputModel.cs",
+              "RelativeToolTip": "ViewModels\\AddGoalProgressInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:23:24.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:35:07.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:35:13.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:35:32.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NutritionController.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\NutritionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NutritionController.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\NutritionController.cs",
+              "RelativeToolTip": "Controllers\\NutritionController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:49:49.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:14:46.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:51:01.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BodyweightEFStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\BodyweightEFStorageService.cs",
+              "RelativeDocumentMoniker": "Data\\BodyweightEFStorageService.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\BodyweightEFStorageService.cs",
+              "RelativeToolTip": "Data\\BodyweightEFStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:52:22.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-15T15:16:17.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "viewgoal.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Goal\\viewgoal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Goal\\viewgoal.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Goal\\viewgoal.cshtml",
+              "RelativeToolTip": "Views\\Goal\\viewgoal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:34:33.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TwoFactorAuthentication.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:34:27.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Nutrition\\summary.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nutrition\\summary.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Nutrition\\summary.cshtml",
+              "RelativeToolTip": "Views\\Nutrition\\summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:34:14.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:34:58.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShowRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:34:01.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ResetPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:43.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:28.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:10.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:33:04.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:32:56.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:32:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:32:14.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:32:08.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:31:37.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:31:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:50.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:45.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:32.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:27.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:20.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:30:14.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:55.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:48.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Disable2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:31.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:21.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:14.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:29:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddFood.cshtml",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Nutrition\\AddFood.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nutrition\\AddFood.cshtml",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Views\\Nutrition\\AddFood.cshtml",
+              "RelativeToolTip": "Views\\Nutrition\\AddFood.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:28:57.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EditGoalInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\EditGoalInputModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditGoalInputModel.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\ViewModels\\EditGoalInputModel.cs",
+              "RelativeToolTip": "ViewModels\\EditGoalInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:23:02.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GoalEFStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\GoalEFStorageService.cs",
+              "RelativeDocumentMoniker": "Data\\GoalEFStorageService.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Data\\GoalEFStorageService.cs",
+              "RelativeToolTip": "Data\\GoalEFStorageService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:53:00.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GoalController.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\GoalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GoalController.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\GoalController.cs",
+              "RelativeToolTip": "Controllers\\GoalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:49:00.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkoutController.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Controllers\\WorkoutController.cs",
+              "RelativeToolTip": "Controllers\\WorkoutController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:50:20.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "WorkoutSession.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WorkoutSession.cs",
+              "RelativeDocumentMoniker": "Models\\WorkoutSession.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WorkoutSession.cs",
+              "RelativeToolTip": "Models\\WorkoutSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:47:05.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "WorkoutPlan.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WorkoutPlan.cs",
+              "RelativeDocumentMoniker": "Models\\WorkoutPlan.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WorkoutPlan.cs",
+              "RelativeToolTip": "Models\\WorkoutPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:46:42.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "WorkoutActivity.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WorkoutActivity.cs",
+              "RelativeDocumentMoniker": "Models\\WorkoutActivity.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WorkoutActivity.cs",
+              "RelativeToolTip": "Models\\WorkoutActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:46:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "WeightliftingProgress.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WeightliftingProgress.cs",
+              "RelativeDocumentMoniker": "Models\\WeightliftingProgress.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WeightliftingProgress.cs",
+              "RelativeToolTip": "Models\\WeightliftingProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:45:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "WeightliftingGoal.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WeightliftingGoal.cs",
+              "RelativeDocumentMoniker": "Models\\WeightliftingGoal.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\WeightliftingGoal.cs",
+              "RelativeToolTip": "Models\\WeightliftingGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:45:24.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TimedProgress.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\TimedProgress.cs",
+              "RelativeDocumentMoniker": "Models\\TimedProgress.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\TimedProgress.cs",
+              "RelativeToolTip": "Models\\TimedProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:44:57.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "GoalProgress.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\GoalProgress.cs",
+              "RelativeDocumentMoniker": "Models\\GoalProgress.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\GoalProgress.cs",
+              "RelativeToolTip": "Models\\GoalProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:43:13.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Models\\Food.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\Food.cs",
+              "RelativeToolTip": "Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:42:00.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BodyweightTarget.cs",
+              "DocumentMoniker": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\BodyweightTarget.cs",
+              "RelativeDocumentMoniker": "Models\\BodyweightTarget.cs",
+              "ToolTip": "C:\\Users\\diama\\Desktop\\Fitnesstraker\\Fitnesstracker\\Models\\BodyweightTarget.cs",
+              "RelativeToolTip": "Models\\BodyweightTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T14:41:04.811Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
