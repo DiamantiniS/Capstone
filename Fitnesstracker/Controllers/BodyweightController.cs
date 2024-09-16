@@ -84,27 +84,29 @@ namespace Fitnesstracker.Controllers
         [HttpPost]
         public async Task<IActionResult> EditTarget(float TargetWeight, DateTime TargetDate)
         {
-            if (TargetWeight <= 0 || TargetWeight >= 200 || TargetDate <= DateTime.Today)
-                return BadRequest();
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
             FitnessUser? currentUser = await GetUser();
             if (currentUser == null)
-                return Unauthorized();
-
-            BodyweightTarget newTarget = await _storageService.GetBodyweightTarget(currentUser);
-            if (newTarget == null)
             {
-                newTarget = new BodyweightTarget()
-                {
-                    User = currentUser
-                };
+                return Unauthorized();
             }
-            newTarget.TargetWeight = TargetWeight;
-            newTarget.TargetDate = TargetDate;
-            await _storageService.StoreBodyweightTarget(newTarget);
+
+            BodyweightTarget target = new BodyweightTarget
+            {
+                TargetWeight = TargetWeight,
+                TargetDate = TargetDate,
+                User = currentUser
+            };
+
+            await _storageService.StoreBodyweightTarget(target);
 
             return RedirectToAction("Summary");
         }
+
 
         [HttpGet]
         public async Task<IActionResult> EditRecords()

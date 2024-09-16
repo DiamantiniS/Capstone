@@ -9,7 +9,7 @@ namespace Fitnesstracker.Data
 {
     public class BodyweightEFStorageService : IBodyweightStorageService
     {
-        private ApplicationDbContext dbContext;
+        private readonly ApplicationDbContext dbContext;
 
         public BodyweightEFStorageService(ApplicationDbContext DBContext)
         {
@@ -30,35 +30,36 @@ namespace Fitnesstracker.Data
 
         public async Task<BodyweightRecord[]> GetBodyweightRecords(FitnessUser User, bool AscendingOrder = false)
         {
-            BodyweightRecord[] records = null;
+            BodyweightRecord[] records;
 
-            if (AscendingOrder == false)
-            {
-                records = await dbContext.BodyweightRecords
-                    .Where(record => record.User == User)
-                    .OrderByDescending(record => record.Date)
-                    .ToArrayAsync();
-            }
-            else
+            if (AscendingOrder)
             {
                 records = await dbContext.BodyweightRecords
                     .Where(record => record.User == User)
                     .OrderBy(record => record.Date)
                     .ToArrayAsync();
             }
+            else
+            {
+                records = await dbContext.BodyweightRecords
+                    .Where(record => record.User == User)
+                    .OrderByDescending(record => record.Date)
+                    .ToArrayAsync();
+            }
 
             return records ?? Array.Empty<BodyweightRecord>();
         }
 
-        public async Task<BodyweightTarget> GetBodyweightTarget(FitnessUser User)
+        public async Task<BodyweightTarget?> GetBodyweightTarget(FitnessUser User)
         {
-            BodyweightTarget result = await dbContext.BodyweightTargets.FirstOrDefaultAsync(target => target.User == User);
-            return result;
+            return await dbContext.BodyweightTargets.FirstOrDefaultAsync(target => target.User == User);
         }
 
         public async Task DeleteExistingRecords(FitnessUser User)
         {
-            BodyweightRecord[] existingRecords = await dbContext.BodyweightRecords.Where(record => record.User == User).ToArrayAsync();
+            BodyweightRecord[] existingRecords = await dbContext.BodyweightRecords
+                .Where(record => record.User == User)
+                .ToArrayAsync();
             dbContext.BodyweightRecords.RemoveRange(existingRecords);
             await dbContext.SaveChangesAsync();
         }
@@ -66,9 +67,13 @@ namespace Fitnesstracker.Data
         public async Task StoreBodyweightTarget(BodyweightTarget Target)
         {
             if (Target.ID == 0)
+            {
                 dbContext.BodyweightTargets.Add(Target);
+            }
             else
+            {
                 dbContext.BodyweightTargets.Update(Target);
+            }
 
             await dbContext.SaveChangesAsync();
         }
