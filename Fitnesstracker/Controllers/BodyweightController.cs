@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,31 +15,57 @@ namespace Fitnesstracker.Controllers
     [Authorize]
     public class BodyweightController : Controller
     {
-        private readonly IBodyweightStorageService storageService;
-        private readonly UserManager<FitnessUser> userManager;
+        private readonly IBodyweightStorageService _storageService;
+        private readonly UserManager<FitnessUser> _userManager;
 
-        public BodyweightController(IBodyweightStorageService StorageService, UserManager<FitnessUser> UserManager)
+        public BodyweightController(IBodyweightStorageService storageService, UserManager<FitnessUser> userManager)
         {
-            this.storageService = StorageService;
-            this.userManager = UserManager;
+            _storageService = storageService;
+            _userManager = userManager;
         }
 
         private async Task<FitnessUser?> GetUser()
         {
-            return await userManager.GetUserAsync(HttpContext.User);
+            return await _userManager.GetUserAsync(HttpContext.User);
         }
 
         public async Task<IActionResult> Summary()
         {
             FitnessUser? currentUser = await GetUser();
             if (currentUser == null)
+            {
                 return Unauthorized();
+            }
 
-            IEnumerable<BodyweightRecord> records = await storageService.GetBodyweightRecords(currentUser);
-            BodyweightTarget target = await storageService.GetBodyweightTarget(currentUser);
+            var records = await _storageService.GetBodyweightRecords(currentUser);
+            var target = await _storageService.GetBodyweightTarget(currentUser);
+
+            if (records == null || !records.Any())
+            {
+                // Aggiungi un record fittizio se records è vuoto
+                records = new BodyweightRecord[]
+                {
+                    new BodyweightRecord
+                    {
+                        User = currentUser,
+                        Date = DateTime.Today,
+                        Weight = 0 // Peso fittizio
+                    }
+                };
+            }
+
+            if (target == null)
+            {
+                // Inizializza un target fittizio se target è null
+                target = new BodyweightTarget
+                {
+                    User = currentUser,
+                    TargetWeight = 0, // Peso target fittizio
+                    TargetDate = DateTime.Today // Data target fittizia
+                };
+            }
 
             BodyweightSummaryViewModel viewModel = new BodyweightSummaryViewModel(records, target);
-
             return View(viewModel);
         }
 
@@ -51,7 +76,7 @@ namespace Fitnesstracker.Controllers
             if (currentUser == null)
                 return Unauthorized();
 
-            BodyweightTarget target = await storageService.GetBodyweightTarget(currentUser);
+            BodyweightTarget target = await _storageService.GetBodyweightTarget(currentUser);
 
             return View(target);
         }
@@ -66,7 +91,7 @@ namespace Fitnesstracker.Controllers
             if (currentUser == null)
                 return Unauthorized();
 
-            BodyweightTarget newTarget = await storageService.GetBodyweightTarget(currentUser);
+            BodyweightTarget newTarget = await _storageService.GetBodyweightTarget(currentUser);
             if (newTarget == null)
             {
                 newTarget = new BodyweightTarget()
@@ -76,7 +101,7 @@ namespace Fitnesstracker.Controllers
             }
             newTarget.TargetWeight = TargetWeight;
             newTarget.TargetDate = TargetDate;
-            await storageService.StoreBodyweightTarget(newTarget);
+            await _storageService.StoreBodyweightTarget(newTarget);
 
             return RedirectToAction("Summary");
         }
@@ -88,7 +113,7 @@ namespace Fitnesstracker.Controllers
             if (currentUser == null)
                 return Unauthorized();
 
-            BodyweightRecord[] records = await storageService.GetBodyweightRecords(currentUser);
+            BodyweightRecord[] records = await _storageService.GetBodyweightRecords(currentUser);
 
             return View(records);
         }
@@ -111,7 +136,7 @@ namespace Fitnesstracker.Controllers
             if (currentUser == null)
                 return Unauthorized();
 
-            await storageService.DeleteExistingRecords(currentUser);
+            await _storageService.DeleteExistingRecords(currentUser);
 
             BodyweightRecord[] records = new BodyweightRecord[Dates.Length];
             for (int i = 0; i < Dates.Length; i++)
@@ -125,7 +150,7 @@ namespace Fitnesstracker.Controllers
                 records[i] = newRecord;
             }
 
-            await storageService.StoreBodyweightRecords(records);
+            await _storageService.StoreBodyweightRecords(records);
             return RedirectToAction("Summary");
         }
 
@@ -146,7 +171,7 @@ namespace Fitnesstracker.Controllers
                 Weight = Weight
             };
 
-            await storageService.StoreBodyweightRecord(newRecord);
+            await _storageService.StoreBodyweightRecord(newRecord);
             return RedirectToAction("Summary");
         }
 
@@ -157,7 +182,7 @@ namespace Fitnesstracker.Controllers
             if (currentUser == null)
                 return Unauthorized();
 
-            BodyweightRecord[] records = await storageService.GetBodyweightRecords(currentUser, true);
+            BodyweightRecord[] records = await _storageService.GetBodyweightRecords(currentUser, true);
 
             var result = records.Select(record => new { Date = record.Date.ToString("d"), Weight = record.Weight }).ToArray();
 

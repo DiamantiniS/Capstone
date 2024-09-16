@@ -44,7 +44,7 @@
     });
 }
 
-$(document).ready(function () {
+$(function () {
     setupGraph(7, "#WeekGraph");
     setupGraph(28, "#MonthGraph");
 });

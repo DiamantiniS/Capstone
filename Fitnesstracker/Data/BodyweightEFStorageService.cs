@@ -5,7 +5,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-
 namespace Fitnesstracker.Data
 {
     public class BodyweightEFStorageService : IBodyweightStorageService
@@ -48,7 +47,7 @@ namespace Fitnesstracker.Data
                     .ToArrayAsync();
             }
 
-            return records;
+            return records ?? Array.Empty<BodyweightRecord>();
         }
 
         public async Task<BodyweightTarget> GetBodyweightTarget(FitnessUser User)
@@ -72,8 +71,6 @@ namespace Fitnesstracker.Data
                 dbContext.BodyweightTargets.Update(Target);
 
             await dbContext.SaveChangesAsync();
-
-
         }
     }
 }

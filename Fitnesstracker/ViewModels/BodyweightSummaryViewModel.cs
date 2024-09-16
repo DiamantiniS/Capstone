@@ -2,8 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using Fitnesstracker.Models;
 
 namespace Fitnesstracker.ViewModels
 {
@@ -26,21 +24,16 @@ namespace Fitnesstracker.ViewModels
         public float DailyProgressNeeded { get; private set; } = 0;
         public float WeeklyProgressNeeded { get; private set; } = 0;
 
-        public BodyweightSummaryViewModel(IEnumerable<BodyweightRecord> AllRecords, BodyweightTarget Target)
+        public BodyweightSummaryViewModel(IEnumerable<BodyweightRecord> allRecords, BodyweightTarget target)
         {
-            if (AllRecords == null || !AllRecords.Any())
+            if (allRecords == null || !allRecords.Any())
             {
-                throw new ArgumentException("AllRecords non può essere nullo o vuoto", nameof(AllRecords));
+                throw new ArgumentException("AllRecords non può essere nullo o vuoto", nameof(allRecords));
             }
 
-            if (Target == null)
-            {
-                throw new ArgumentNullException(nameof(Target), "Target non può essere nullo");
-            }
-
-            this.AllRecords = AllRecords;
-            this.Target = Target;
-            this.MostRecentRecord = AllRecords.First();
+            AllRecords = allRecords;
+            Target = target ?? throw new ArgumentNullException(nameof(target), "Target non può essere nullo");
+            MostRecentRecord = allRecords.FirstOrDefault(); // Usa FirstOrDefault per evitare l'eccezione
 
             CurrentMonthRecords = AllRecords.Where(record => record.Date >= DateTime.Today.AddDays(-28));
             CurrentWeekRecords = CurrentMonthRecords.Where(record => record.Date >= DateTime.Today.AddDays(-7));
