@@ -1,0 +1,25 @@
+﻿/* Sezione Contatti */
+.contact-section {
+    padding: 5rem 1rem;
+}
+
+    .contact-section .form-control {
+        background-color: var(--gray-medium);
+        color: var(--white);
+        border: 1px solid var(--gray-light);
+    }
+
+        .contact-section .form-control:focus {
+            background-color: var(--gray-light);
+            color: var(--white);
+            border-color: var(--primary-color);
+            box-shadow: none;
+        }
+
+        .contact-section .form-control::placeholder {
+            color: #ccc;
+        }
+
+    .contact-section .btn__primary {
+        padding: 0.75rem 1.5rem;
+    }

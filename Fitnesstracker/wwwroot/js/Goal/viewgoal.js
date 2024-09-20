@@ -1,64 +1,66 @@
 ﻿$(document).ready(function () {
-    var type = $("#ProgressType").data("goaltype");
-    if (type == "weightlifting")
+    const type = $("#ProgressType").data("goaltype");
+    if (type === "weightlifting") {
         LoadWeightliftingGraph();
-    else
+    } else {
         LoadTimedGraph();
-
+    }
 });
 
-function LoadWeightliftingGraph() {
-    var id = $("#ProgressType").data("goalid");
+async function LoadWeightliftingGraph() {
+    const id = $("#ProgressType").data("goalid");
 
-    var progressData = $.get("/Goal/GetWeightliftingProgress", { GoalID: id }, function (result) {
-        var dates = result.map(function (record) { return record.date; });
-        var weights = result.map(function (record) { return record.weight; });
-        var goalWeight = Array(dates.length).fill($("#WeightliftingGoal").data("goal"));
+    try {
+        const result = await $.get("/Goal/GetWeightliftingProgress", { GoalID: id });
+        const dates = result.map(record => record.date);
+        const weights = result.map(record => record.weight);
+        const goalWeight = Array(dates.length).fill($("#WeightliftingGoal").data("goal"));
 
-        var minWeight = Math.min(...weights);
-        var minValue = Math.min(minWeight, goalWeight[0]) - 5;
+        const minWeight = Math.min(...weights);
+        const minValue = Math.min(minWeight, goalWeight[0]) - 5;
 
-        var maxWeight = Math.max(...weights);
-        var maxValue = Math.max(maxWeight, goalWeight[0]) + 5;
+        const maxWeight = Math.max(...weights);
+        const maxValue = Math.max(maxWeight, goalWeight[0]) + 5;
 
-        var ctx = $("#ProgressChart")[0].getContext("2d");
+        const ctx = $("#ProgressChart")[0].getContext("2d");
 
-        var chart = new Chart(ctx,
-            {
-                type: 'line',
-                data: {
-                    labels: dates,
-                    datasets: [{
+        const chart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: dates,
+                datasets: [
+                    {
                         label: "Weight (kg)",
                         data: weights,
                         backgroundColor: 'rgba(0,0,0,0)',
-
-                        borderColor: ["#0089dc"]
+                        borderColor: "#0089dc"
                     },
                     {
                         label: "Goal (kg)",
                         data: goalWeight,
                         borderDash: [5, 5],
                         backgroundColor: 'rgba(0,0,0,0)',
-
-                        borderColor: ["#0089dc"]
-                    }]
-                },
-                options: {
-                    scales: {
-                        yAxes: [{
-                            ticks: {
-                                suggestedMin: minValue,
-                                suggestedMax: maxValue
-                            }
-                        }]
+                        borderColor: "#0089dc"
                     }
+                ]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            suggestedMin: minValue,
+                            suggestedMax: maxValue
+                        }
+                    }]
                 }
-            });
-
-    });
+            }
+        });
+    } catch (error) {
+        console.error("Error fetching weightlifting progress data:", error);
+    }
 }
 
 function LoadTimedGraph() {
-
+    // Implementazione futura
 }
+

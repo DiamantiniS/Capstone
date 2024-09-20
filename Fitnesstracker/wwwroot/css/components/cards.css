@@ -1,0 +1,36 @@
+﻿/* Card */
+.card {
+    background-color: var(--gray-dark);
+    color: var(--white);
+    border: none;
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    background-color: var(--gray-medium);
+    color: var (--white);
+    border-bottom: 1px solid var(--gray-light);
+}
+
+.card-title {
+    font-family: "Oswald", sans-serif;
+    color: var(--primary-color);
+    margin-bottom: 0;
+}
+
+.card-subtitle {
+    color: var(--white);
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    color: #ccc;
+}
+
+.card a {
+    color: var(--primary-color);
+}
+
+    .card a:hover {
+        color: var(--primary-color-dark);
+    }

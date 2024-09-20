@@ -1,0 +1,34 @@
+﻿/* Bottoni Personalizzati */
+.btn__primary {
+    background-color: var(--primary-color);
+    color: var(--white);
+    border: none;
+    transition: background-color 0.3s;
+}
+
+    .btn__primary:hover {
+        background-color: var(--primary-color-dark);
+        color: var(--white);
+    }
+
+.btn__secondary {
+    background-color: var(--gray-medium);
+    color: var(--white);
+    border: none;
+    transition: background-color 0.3s;
+}
+
+    .btn__secondary:hover {
+        background-color: var(--gray-light);
+        color: var(--white);
+    }
+
+.btn-link {
+    color: var(--white);
+    text-decoration: underline;
+}
+
+    .btn-link:hover {
+        color: var(--primary-color);
+        text-decoration: none;
+    }

@@ -1,0 +1,18 @@
+﻿/* Importazione dei font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: var(--background-dark);
+    color: var(--white);
+}
+
+a {
+    color: var(--white);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+    a:hover {
+        color: var(--primary-color);
+    }

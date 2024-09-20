@@ -1,0 +1,9 @@
+﻿/* Footer */
+.footer-section {
+    background-color: var(--gray-dark);
+    color: var(--white);
+    padding: 2rem;
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid var(--gray-medium);
+}

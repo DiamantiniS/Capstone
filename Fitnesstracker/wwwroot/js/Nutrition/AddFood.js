@@ -1,62 +1,54 @@
-﻿function addFoodRecord(addButton) {
-    var selectedCard = $(addButton).parents(".card");
+﻿function getFoodData(element) {
+    return {
+        id: $(element).data("id"),
+        name: $(element).data("name"),
+        carbs: $(element).data("carbs"),
+        protein: $(element).data("protein"),
+        fat: $(element).data("fat"),
+        calories: $(element).data("calories"),
+        size: $(element).data("servingsize"),
+        unit: $(element).data("servingunit")
+    };
+}
 
-    var id = $(selectedCard).data("id");
-    var name = $(selectedCard).data("name");
-    var carbs = $(selectedCard).data("carbs");
-    var protein = $(selectedCard).data("protein");
-    var fat = $(selectedCard).data("fat");
-    var calories = $(selectedCard).data("calories");
+function addFoodRecord(addButton) {
+    const selectedCard = $(addButton).closest(".card");
+    const foodData = getFoodData(selectedCard);
 
-    var rowClone = $("#NewRowTemplate").clone();
-    rowClone.removeAttr("id");
-    rowClone.removeClass("d-none");
+    const rowClone = $("#NewRowTemplate").clone();
+    rowClone.removeAttr("id").removeClass("d-none");
 
-    rowClone.find(".recordID").val(id);
-    rowClone.find(".recordName").val(name);
-    rowClone.find(".recordCarbs").val(carbs);
-    rowClone.find(".recordProtein").val(protein);
-    rowClone.find(".recordFat").val(fat);
-    rowClone.find(".recordCalories").val(calories);
+    rowClone.find(".recordID").val(foodData.id);
+    rowClone.find(".recordName").val(foodData.name);
+    rowClone.find(".recordCarbs").val(foodData.carbs);
+    rowClone.find(".recordProtein").val(foodData.protein);
+    rowClone.find(".recordFat").val(foodData.fat);
+    rowClone.find(".recordCalories").val(foodData.calories);
 
     $("#RecordBody").append(rowClone);
     updateInputNames();
 }
 
 function setNewFoodFields(editButton) {
-    var selectedCard = $(editButton).parents(".card");
+    const selectedCard = $(editButton).closest(".card");
+    const foodData = getFoodData(selectedCard);
 
-    var id = $(selectedCard).data("id");
-    var name = $(selectedCard).data("name");
-    var carbs = $(selectedCard).data("carbs");
-    var protein = $(selectedCard).data("protein");
-    var fat = $(selectedCard).data("fat");
-    var calories = $(selectedCard).data("calories");
-    var size = $(selectedCard).data("servingsize");
-    var unit = $(selectedCard).data("servingunit");
-
-    $("#existingFoodID").val(id);
-    $("#newFoodName").val(name);
-    $("#newFoodSize").val(size);
-    $("#newFoodUnit").val(unit);
-    $("#newFoodCarbs").val(carbs);
-    $("#newFoodProtein").val(protein);
-    $("#newFoodFat").val(fat);
-    $("#newFoodCalories").val(calories);
+    $("#existingFoodID").val(foodData.id);
+    $("#newFoodName").val(foodData.name);
+    $("#newFoodSize").val(foodData.size);
+    $("#newFoodUnit").val(foodData.unit);
+    $("#newFoodCarbs").val(foodData.carbs);
+    $("#newFoodProtein").val(foodData.protein);
+    $("#newFoodFat").val(foodData.fat);
+    $("#newFoodCalories").val(foodData.calories);
 
     newFoodIDChanged();
-
 }
 
 function newFoodIDChanged() {
-    if ($("#existingFoodID").val() == 0) {
-        $("#NewFoodHeader").text("Add New Food")
-        $("#NewFoodCancel").addClass("d-none");
-    }
-    else {
-        $("#NewFoodHeader").text("Edit Food");
-        $("#NewFoodCancel").removeClass("d-none");
-    }
+    const isNewFood = $("#existingFoodID").val() == 0;
+    $("#NewFoodHeader").text(isNewFood ? "Add New Food" : "Edit Food");
+    $("#NewFoodCancel").toggleClass("d-none", isNewFood);
 }
 
 function cancelEdit() {
@@ -65,21 +57,22 @@ function cancelEdit() {
 }
 
 function updateInputNames() {
-    $("#RecordBody").find("tr").each(function (index, row) {
-        $(row).find(".recordID").attr("name", "FoodIDs[" + String(index) + "]");
-        $(row).find(".recordQuantity").attr("name", "Quantities[" + String(index) + "]");
+    $("#RecordBody").find("tr").each((index, row) => {
+        $(row).find(".recordID").attr("name", `FoodIDs[${index}]`);
+        $(row).find(".recordQuantity").attr("name", `Quantities[${index}]`);
     });
 }
 
 function removeRow(row) {
-    $(row).parents("tr").remove();
+    $(row).closest("tr").remove();
     updateInputNames();
 }
 
 function updateCalories() {
-    var carbs = $("#newFoodCarbs").val();
-    var protein = $("#newFoodProtein").val();
-    var fat = $("#newFoodFat").val();
-    var calories = (carbs * 4) + (protein * 4) + (fat * 9);
+    const carbs = parseFloat($("#newFoodCarbs").val()) || 0;
+    const protein = parseFloat($("#newFoodProtein").val()) || 0;
+    const fat = parseFloat($("#newFoodFat").val()) || 0;
+    const calories = (carbs * 4) + (protein * 4) + (fat * 9);
     $("#newFoodCalories").val(calories);
 }
+

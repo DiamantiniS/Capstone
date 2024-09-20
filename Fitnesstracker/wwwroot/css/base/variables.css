@@ -1,0 +1,12 @@
+﻿/* Variabili CSS */
+:root {
+    --primary-color: #dc030a;
+    --primary-color-dark: rgb(135, 6, 12);
+    --text-dark: #0a0a0a;
+    --text-light: #737373;
+    --background-dark: #121212;
+    --white: #ffffff;
+    --gray-dark: #222;
+    --gray-medium: #2b2b2b;
+    --gray-light: #333;
+}
