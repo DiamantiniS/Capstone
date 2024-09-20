@@ -39,7 +39,7 @@ Clone the Repository
 
 bash
 Copia codice
-git clone https://github.com/tuo-username/fitness-tracker.git
+git clone [https://github.com/tuo-username/fitness-tracker.git](https://github.com/DiamantiniS/Capstone)
 cd fitness-tracker
 Configure Database
 
