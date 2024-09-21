@@ -1,4 +1,4 @@
-﻿$(document).ready(function () {
+﻿$(function () {
     const type = $("#ProgressType").data("goaltype");
     if (type === "weightlifting") {
         LoadWeightliftingGraph();
@@ -63,4 +63,3 @@ async function LoadWeightliftingGraph() {
 function LoadTimedGraph() {
     // Implementazione futura
 }
-
