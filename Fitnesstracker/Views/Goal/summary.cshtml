@@ -11,6 +11,7 @@
 
 <div class="row">
     @foreach (Goal goal in Model)
+
     {
         <div class="col-3 mt-3">
             <div class="card">
@@ -20,6 +21,7 @@
                 <div class="card-body text-center" style="font-size:1.1rem">
                     @switch (goal)
                     {
+
                         case WeightliftingGoal wg:
                             <div class="row text-center">
                                 <div class="col-6">
@@ -32,6 +34,7 @@
                                 </div>
                             </div>
                             break;
+
                         case TimedGoal tg:
                             <div class="row text-center">
                                 <div class="col-6">

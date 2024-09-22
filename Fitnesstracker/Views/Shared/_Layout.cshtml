@@ -11,7 +11,7 @@
 </head>
 <body class="h-100">
     <header>
-    
+
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Fitnesstracker</a>
@@ -22,6 +22,8 @@
         </nav>
     </header>
     @if (User?.Identity?.IsAuthenticated == true)
+
+
 
     {
         <div class="container-fluid">
@@ -64,7 +66,11 @@
         </div>
     }
 
+
+
     else
+
+
 
     {
         <main role="main" class="container">
@@ -77,19 +83,19 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
     <script>
-window.embeddedChatbotConfig = {
-chatbotId: "oKalxOfAtlIBy3Z9t1S1Z",
-domain: "www.chatbase.co"
-}
-</script>
-<script
-src="https://www.chatbase.co/embed.min.js"
-chatbotId="oKalxOfAtlIBy3Z9t1S1Z"
-domain="www.chatbase.co"
-defer>
-</script>
+        window.embeddedChatbotConfig = {
+            chatbotId: "oKalxOfAtlIBy3Z9t1S1Z",
+            domain: "www.chatbase.co"
+        }
+    </script>
+    <script src="https://www.chatbase.co/embed.min.js"
+            chatbotId="oKalxOfAtlIBy3Z9t1S1Z"
+            domain="www.chatbase.co"
+            defer>
+    </script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <partial name="_ValidationScriptsPartial" />
     @RenderSection("Scripts", required: false)
 </body>
 </html>
+

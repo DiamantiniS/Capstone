@@ -3,10 +3,12 @@
 @{
     ViewData["Title"] = "Add Food";
 
+
+
     FoodRecord[] recordForCurrentDate = Model.FoodRecords.Where(record => record.ConsumptionDate == (DateTime)ViewData["selectedDate"]).ToArray();
 }
 
-@section Scripts{
+@section Scripts {
     <script src="~/js/Nutrition/AddFood.js"></script>
 }
 
@@ -15,6 +17,7 @@
 <h2>Add Existing Food</h2>
 <div class="horizontalScrollBox" style="overflow-x:auto;overflow-y:hidden;white-space:nowrap;">
     @foreach (Food f in Model.UserFoods)
+
     {
         <div class="col-2 d-inline-block float-none" style="margin-right:-0.5rem;margin-left:-0.5rem">
             <div class="card" data-ID="@f.ID" data-Name="@f.Name" data-Carbs="@f.Carbohydrates" data-Protein="@f.Protein" data-Fat="@f.Fat" data-Calories="@f.Calories" data-ServingSize="@f.ServingSize" data-ServingUnit="@f.ServingUnit">
@@ -77,7 +80,7 @@
                     <input type="number" name="ServingSize" class="form-control mr-4" id="newFoodSize" min="0" required />
                 </td>
                 <td>
-                    <select name="ServingUnit" class="form-control" required>
+                    <select name="ServingUnit" class="form-control form__input" required>
                         <option value="ea">ea</option>
                         <option value="ml">ml</option>
                         <option value="g">g</option>
@@ -125,7 +128,7 @@
 <form asp-controller="Nutrition" asp-action="AddFood" method="get" id="DateSelectionForm">
     <div class="form-group form-inline mt-2">
         <label>Date</label>
-        <input type="date" name="Date" class="form-control" value="@(((DateTime)ViewData["selectedDate"]).ToString("yyyy-MM-dd"))" onchange='$("#DateSelectionForm").submit();' />
+        <input type="date" name="Date" class="form-control form__input" value="@(((DateTime)ViewData["selectedDate"]).ToString("yyyy-MM-dd"))" onchange='$("#DateSelectionForm").submit();' />
     </div>
 </form>
 
@@ -168,6 +171,7 @@
         <tbody id="RecordBody">
             @for (int i = 0; i < recordForCurrentDate.Length; i++)
             {
+
                 FoodRecord record = recordForCurrentDate[i];
 
                 <tr>
