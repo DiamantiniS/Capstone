@@ -13,14 +13,16 @@ async function LoadWeightliftingGraph() {
     try {
         const result = await $.get("/Goal/GetWeightliftingProgress", { GoalID: id });
         const dates = result.map(record => record.date);
-        const weights = result.map(record => record.weight);
+        const weights = result.map(record => record.weight).filter(value => value !== null && !isNaN(value));
         const goalWeight = Array(dates.length).fill($("#WeightliftingGoal").data("goal"));
 
-        const minWeight = Math.min(...weights);
-        const minValue = Math.min(minWeight, goalWeight[0]) - 5;
+        if (weights.length === 0) {
+            console.error("Nessun dato valido per il grafico.");
+            return;
+        }
 
-        const maxWeight = Math.max(...weights);
-        const maxValue = Math.max(maxWeight, goalWeight[0]) + 5;
+        const minValue = Math.min(...weights, goalWeight[0]) - 5;
+        const maxValue = Math.max(...weights, goalWeight[0]) + 5;
 
         const ctx = $("#ProgressChart")[0].getContext("2d");
 
@@ -32,31 +34,47 @@ async function LoadWeightliftingGraph() {
                     {
                         label: "Weight (kg)",
                         data: weights,
-                        backgroundColor: 'rgba(0,0,0,0)',
-                        borderColor: "#0089dc"
+                        backgroundColor: 'rgba(220, 3, 10, 0.2)',
+                        borderColor: "#dc030a",
+                        borderWidth: 3
                     },
                     {
                         label: "Goal (kg)",
                         data: goalWeight,
                         borderDash: [5, 5],
                         backgroundColor: 'rgba(0,0,0,0)',
-                        borderColor: "#0089dc"
+                        borderColor: "#a50207"
                     }
                 ]
             },
             options: {
+                responsive: true,
+                maintainAspectRatio: false,
                 scales: {
-                    yAxes: [{
+                    y: {
                         ticks: {
-                            suggestedMin: minValue,
-                            suggestedMax: maxValue
+                            beginAtZero: false,
+                            color: "#fff"
+                        },
+                        suggestedMin: minValue,
+                        suggestedMax: maxValue,
+                        grid: {
+                            color: "#444"
                         }
-                    }]
+                    },
+                    x: {
+                        ticks: {
+                            color: "#fff"
+                        },
+                        grid: {
+                            color: "#444"
+                        }
+                    }
                 }
             }
         });
     } catch (error) {
-        console.error("Error fetching weightlifting progress data:", error);
+        console.error("Errore nel caricamento dei dati per il grafico:", error);
     }
 }
 

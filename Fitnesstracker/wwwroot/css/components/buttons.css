@@ -1,34 +1,30 @@
 ﻿/* Bottoni Personalizzati */
 .btn__primary {
-    background-color: var(--primary-color);
-    color: var(--white);
+    background-color: #dc030a;
+    color: #fff;
     border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
     transition: background-color 0.3s;
 }
 
     .btn__primary:hover {
-        background-color: var(--primary-color-dark);
-        color: var(--white);
+        background-color: #a50207;
+        color: #fff;
     }
 
 .btn__secondary {
-    background-color: var(--gray-medium);
-    color: var(--white);
+    background-color: #333;
+    color: #fff;
     border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
     transition: background-color 0.3s;
 }
 
     .btn__secondary:hover {
-        background-color: var(--gray-light);
-        color: var(--white);
-    }
-
-.btn-link {
-    color: var(--white);
-    text-decoration: underline;
-}
-
-    .btn-link:hover {
-        color: var(--primary-color);
-        text-decoration: none;
+        background-color: #444;
+        color: #fff;
     }

@@ -1,11 +1,10 @@
-﻿// Script per gestire il menu toggle sulla navbar mobile
-$(function () {
+﻿$(function () {
     $('.navbar-toggler').click(function () {
         $(this).toggleClass('active');
     });
 });
 
-// ScrollReveal per animazioni (se desideri aggiungere effetti)
+// ScrollReveal per animazioni
 const revealOptions = [
     { selector: '.header__content h1', delay: 200 },
     { selector: '.header__content h2', delay: 400 },
@@ -16,5 +15,3 @@ const revealOptions = [
 revealOptions.forEach(option => {
     ScrollReveal().reveal(option.selector, { delay: option.delay });
 });
-
-

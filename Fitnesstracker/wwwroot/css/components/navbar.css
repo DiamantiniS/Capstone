@@ -1,16 +1,16 @@
 ﻿/* Navbar */
 .navbar {
-    background-color: var(--background-dark);
+    background-color: #1f1f1f;
     width: 100%;
     z-index: 1000;
     padding: 0.5rem 1rem;
-    border-bottom: 1px solid var(--gray-medium);
+    border-bottom: 1px solid #333;
 }
 
 .navbar-brand {
     font-family: "Oswald", sans-serif;
-    color: var(--white);
-    font-size: 1.5rem;
+    color: #fff;
+    font-size: 2rem;
 }
 
 .navbar-toggler {
@@ -18,17 +18,16 @@
 }
 
     .navbar-toggler i {
-        color: var(--white);
+        color: #fff;
         font-size: 1.5rem;
     }
 
-/* File: navbar.css */
 .navbar-nav .nav-link {
-    color: white !important; /* Usa !important per forzare il colore */
+    color: #ccc !important;
     padding: 0.5rem 1rem;
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 
     .navbar-nav .nav-link:hover {
-        color: var(--primary-color) !important; /* Usa !important per forzare il colore */
+        color: #dc030a !important;
     }

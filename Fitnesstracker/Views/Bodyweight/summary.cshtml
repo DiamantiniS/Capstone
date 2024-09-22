@@ -18,6 +18,8 @@
 
             D = 0;
 
+
+
         return $"{Math.Round(D, 2):+0.00;-0.00}kg";
 
     }
@@ -197,3 +199,10 @@
         </div>
     </div>
 </div>
+
+<script>
+    $(document).ready(function () {
+        setupGraph(7, "#WeekGraph");
+        setupGraph(30, "#MonthGraph");
+    });
+</script>

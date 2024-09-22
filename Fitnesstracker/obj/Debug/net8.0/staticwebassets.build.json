@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QEkjE5owkTC3679yIQ4w7B1DJ7BppbXvyQE6P+IwUsU=",
+  "Hash": "pd89eTnpxfPAoiEjNeKLqGANqqxYitm00THqyemxyhg=",
   "Source": "Fitnesstracker",
   "BasePath": "_content/Fitnesstracker",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\components\\cards.css"
+    },
+    {
+      "Identity": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\charts.css",
+      "SourceId": "Fitnesstracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\",
+      "BasePath": "_content/Fitnesstracker",
+      "RelativePath": "css/components/charts.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\components\\charts.css"
     },
     {
       "Identity": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\navbar.css",

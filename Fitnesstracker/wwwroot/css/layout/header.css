@@ -1,24 +1,24 @@
 ﻿/* Header */
 .header {
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('/css/your-hero-image.jpg'); /* Assicurati che il percorso sia corretto */
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('/css/dashboard.jpg');
     background-size: cover;
     background-position: center;
     padding: 8rem 0;
-    color: var(--white);
+    color: #fff;
     text-align: center;
 }
 
 .header__content h1 {
     font-family: "Oswald", sans-serif;
     font-size: 4rem;
-    color: var(--primary-color);
+    color: #dc030a;
     margin-bottom: 1rem;
 }
 
 .header__content h2 {
     font-family: "Oswald", sans-serif;
     font-size: 2rem;
-    color: var(--white);
+    color: #fff;
     margin-bottom: 1rem;
 }
 

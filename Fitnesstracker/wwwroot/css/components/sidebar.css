@@ -1,22 +1,18 @@
 ﻿/* Sidebar */
 #sidebar {
-    background-color: var(--background-dark);
+    background-color: #2b2b2b;
     min-height: 100vh;
     padding-top: 20px;
-    border-right: 1px solid var(--gray-medium);
+    border-right: 1px solid #333;
 }
 
     #sidebar .nav-link {
-        color: var(--white);
+        color: #ccc;
         font-size: 1.1rem;
         padding: 15px 20px;
     }
 
         #sidebar .nav-link:hover {
-            background-color: var(--gray-medium);
-            color: var(--primary-color);
-        }
-
-        #sidebar .nav-link i {
-            margin-right: 10px;
+            background-color: #333;
+            color: #dc030a;
         }

@@ -27,7 +27,14 @@ function addFoodRecord(addButton) {
 
     $("#RecordBody").append(rowClone);
     updateInputNames();
+
+    rowClone.css({
+        "background-color": "#2b2b2b",
+        "color": "#fff",
+        "border-radius": "5px"
+    });
 }
+
 
 function setNewFoodFields(editButton) {
     const selectedCard = $(editButton).closest(".card");

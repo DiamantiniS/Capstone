@@ -99,8 +99,10 @@ function addRowButton_Clicked() {
 
     addNewRow(weight, date);
     weightInput.val("");
+    dateInput.val(""); // Aggiungi questa riga per resettare il campo data
 }
 
 $(document).ready(() => {
     validateNewDate();
 });
+

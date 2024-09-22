@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\css\\components\\cards.css"
     },
     {
+      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\charts.css",
+      "PackagePath": "staticwebassets\\css\\components\\charts.css"
+    },
+    {
       "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\navbar.css",
       "PackagePath": "staticwebassets\\css\\components\\navbar.css"
     },
