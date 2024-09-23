@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\GIT\\Capstone\\Fitnesstracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\layout\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\layout\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\components\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\charts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\components\\charts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\views\\nutrition\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\nutrition\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\nutrition\\addfood.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\js\\nutrition\\addfood.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\bodyweight\\summary.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\js\\bodyweight\\summary.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\base\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\base\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -15,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\components\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\base\\reset.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\base\\reset.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\components\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\layout\\main-content.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -39,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\layout\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\layout\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\layout\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\pages\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\pages\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\charts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\css\\components\\charts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\css\\components\\cards.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -79,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\workout\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\views\\nutrition\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\nutrition\\addfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -103,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:views\\goal\\viewgoal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\bodyweight\\summary.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\js\\bodyweight\\summary.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\bodyweight\\editrecords.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\js\\bodyweight\\editrecords.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -117,10 +121,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\goal\\viewgoal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\js\\goal\\viewgoal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\nutrition\\addfood.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|solutionrelative:wwwroot\\js\\nutrition\\addfood.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6687EAC-BAD5-4800-93CC-136C4E9D94DA}|Fitnesstracker.csproj|c:\\git\\capstone\\fitnesstracker\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -450,72 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "reset.css",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\reset.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\base\\reset.css",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\reset.css",
-              "RelativeToolTip": "wwwroot\\css\\base\\reset.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T14:59:40.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "sidebar.css",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\sidebar.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\components\\sidebar.css",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\sidebar.css",
-              "RelativeToolTip": "wwwroot\\css\\components\\sidebar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T15:00:36.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-16T20:07:21.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "typographgy.css",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\typographgy.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\base\\typographgy.css",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\typographgy.css",
-              "RelativeToolTip": "wwwroot\\css\\base\\typographgy.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T15:00:07.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "variables.css",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\variables.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\base\\variables.css",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\variables.css",
-              "RelativeToolTip": "wwwroot\\css\\base\\variables.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T14:59:53.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "navbar.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\navbar.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\components\\navbar.css",
@@ -528,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "main-content.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\layout\\main-content.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\layout\\main-content.css",
@@ -541,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "home.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\pages\\home.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\pages\\home.css",
@@ -554,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "header.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\layout\\header.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\layout\\header.css",
@@ -567,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "footer.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\layout\\footer.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\layout\\footer.css",
@@ -580,7 +515,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
+              "Title": "variables.css",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\variables.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\base\\variables.css",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\variables.css",
+              "RelativeToolTip": "wwwroot\\css\\base\\variables.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T14:59:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "contact.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\pages\\contact.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\pages\\contact.css",
@@ -593,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "charts.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\charts.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\components\\charts.css",
@@ -606,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "cards.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\cards.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\components\\cards.css",
@@ -619,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "buttons.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\buttons.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\components\\buttons.css",
@@ -632,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
@@ -645,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "edittarget.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Bodyweight\\edittarget.cshtml",
               "RelativeDocumentMoniker": "Views\\Bodyweight\\edittarget.cshtml",
@@ -658,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "editrecords.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Bodyweight\\editrecords.cshtml",
               "RelativeDocumentMoniker": "Views\\Bodyweight\\editrecords.cshtml",
@@ -671,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "edit.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Workout\\edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Workout\\edit.cshtml",
@@ -684,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "summary.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Bodyweight\\summary.cshtml",
               "RelativeDocumentMoniker": "Views\\Bodyweight\\summary.cshtml",
@@ -697,20 +645,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 4,
               "Title": "AddFood.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Nutrition\\AddFood.cshtml",
               "RelativeDocumentMoniker": "Views\\Nutrition\\AddFood.cshtml",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Nutrition\\AddFood.cshtml",
               "RelativeToolTip": "Views\\Nutrition\\AddFood.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAL8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-15T15:28:57.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
+              "Title": "summary.js",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Bodyweight\\summary.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Bodyweight\\summary.js",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Bodyweight\\summary.js",
+              "RelativeToolTip": "wwwroot\\js\\Bodyweight\\summary.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-16T14:40:03.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddFood.js",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Nutrition\\AddFood.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Nutrition\\AddFood.js",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Nutrition\\AddFood.js",
+              "RelativeToolTip": "wwwroot\\js\\Nutrition\\AddFood.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-20T14:49:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sidebar.css",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\sidebar.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\components\\sidebar.css",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\sidebar.css",
+              "RelativeToolTip": "wwwroot\\css\\components\\sidebar.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T15:00:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "typographgy.css",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\typographgy.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\base\\typographgy.css",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\typographgy.css",
+              "RelativeToolTip": "wwwroot\\css\\base\\typographgy.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T15:00:07.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-16T20:07:21.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "reset.css",
+              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\reset.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\base\\reset.css",
+              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\reset.css",
+              "RelativeToolTip": "wwwroot\\css\\base\\reset.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-20T14:59:40.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
@@ -723,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -736,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "editgoal.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Goal\\editgoal.cshtml",
               "RelativeDocumentMoniker": "Views\\Goal\\editgoal.cshtml",
@@ -749,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "viewgoal.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Goal\\viewgoal.cshtml",
               "RelativeDocumentMoniker": "Views\\Goal\\viewgoal.cshtml",
@@ -763,19 +789,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "summary.js",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Bodyweight\\summary.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Bodyweight\\summary.js",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Bodyweight\\summary.js",
-              "RelativeToolTip": "wwwroot\\js\\Bodyweight\\summary.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-16T14:40:03.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "summary.cshtml",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\Views\\Goal\\summary.cshtml",
               "RelativeDocumentMoniker": "Views\\Goal\\summary.cshtml",
@@ -788,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "editrecords.js",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Bodyweight\\editrecords.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Bodyweight\\editrecords.js",
@@ -796,11 +809,12 @@
               "RelativeToolTip": "wwwroot\\js\\Bodyweight\\editrecords.js",
               "ViewState": "AgIAAD4AAAAAAAAAAAAIwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:19:30.163Z"
+              "WhenOpened": "2024-09-20T14:19:30.163Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "session.js",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Workout\\session.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Workout\\session.js",
@@ -808,31 +822,21 @@
               "RelativeToolTip": "wwwroot\\js\\Workout\\session.js",
               "ViewState": "AgIAACkAAAAAAAAAAADwvzsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:50:58.67Z"
+              "WhenOpened": "2024-09-20T14:50:58.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "viewgoal.js",
               "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Goal\\viewgoal.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\Goal\\viewgoal.js",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Goal\\viewgoal.js",
               "RelativeToolTip": "wwwroot\\js\\Goal\\viewgoal.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:48:09.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AddFood.js",
-              "DocumentMoniker": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Nutrition\\AddFood.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Nutrition\\AddFood.js",
-              "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Nutrition\\AddFood.js",
-              "RelativeToolTip": "wwwroot\\js\\Nutrition\\AddFood.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:49:13.309Z"
+              "WhenOpened": "2024-09-20T14:48:09.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -842,9 +846,10 @@
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-17T18:49:06.705Z"
+              "WhenOpened": "2024-09-17T18:49:06.705Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -856,7 +861,8 @@
               "RelativeToolTip": "ViewModels\\EditGoalInputModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:23:02.178Z"
+              "WhenOpened": "2024-09-15T15:23:02.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -868,7 +874,8 @@
               "RelativeToolTip": "ViewModels\\GoalViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:22:46.288Z"
+              "WhenOpened": "2024-09-15T15:22:46.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -880,7 +887,8 @@
               "RelativeToolTip": "Data\\IGoalStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:53:58.11Z"
+              "WhenOpened": "2024-09-15T14:53:58.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -892,7 +900,8 @@
               "RelativeToolTip": "Controllers\\GoalController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:49:00.99Z"
+              "WhenOpened": "2024-09-15T14:49:00.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -904,7 +913,8 @@
               "RelativeToolTip": "Data\\IBodyweightStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:53:31.533Z"
+              "WhenOpened": "2024-09-15T14:53:31.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -916,7 +926,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:31:37.214Z"
+              "WhenOpened": "2024-09-15T15:31:37.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -926,9 +937,10 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\components\\navbar.css",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\navbar.css",
               "RelativeToolTip": "wwwroot\\css\\components\\navbar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-20T15:00:18.177Z"
+              "WhenOpened": "2024-09-20T15:00:18.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -940,7 +952,8 @@
               "RelativeToolTip": "wwwroot\\js\\Nutrition\\summary.js",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:49:35.543Z"
+              "WhenOpened": "2024-09-20T14:49:35.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -950,9 +963,10 @@
               "RelativeDocumentMoniker": "wwwroot\\js\\Goal\\editgoal.js",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\js\\Goal\\editgoal.js",
               "RelativeToolTip": "wwwroot\\js\\Goal\\editgoal.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:45:35.763Z"
+              "WhenOpened": "2024-09-20T14:45:35.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -964,7 +978,8 @@
               "RelativeToolTip": "Areas\\Identity\\IdentityHostingStartup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:57.243Z"
+              "WhenOpened": "2024-09-15T15:30:57.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -976,7 +991,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:34:58.776Z"
+              "WhenOpened": "2024-09-15T15:34:58.776Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -988,7 +1004,8 @@
               "RelativeToolTip": "wwwroot\\js\\Workout\\edit.js",
               "ViewState": "AgIAAEwAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-20T14:50:36.449Z"
+              "WhenOpened": "2024-09-20T14:50:36.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1000,7 +1017,8 @@
               "RelativeToolTip": "ViewModels\\AddGoalProgressInputModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:23:24.664Z"
+              "WhenOpened": "2024-09-15T15:23:24.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1012,7 +1030,8 @@
               "RelativeToolTip": "Data\\GoalEFStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:53:00.43Z"
+              "WhenOpened": "2024-09-15T14:53:00.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1024,7 +1043,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T17:21:04.085Z"
+              "WhenOpened": "2024-09-15T17:21:04.085Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1036,7 +1056,8 @@
               "RelativeToolTip": "Models\\GoalProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:43:13.037Z"
+              "WhenOpened": "2024-09-15T14:43:13.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1048,7 +1069,8 @@
               "RelativeToolTip": "Models\\Goal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:42:48.074Z"
+              "WhenOpened": "2024-09-15T14:42:48.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1060,7 +1082,8 @@
               "RelativeToolTip": "Models\\BodyweightRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:40:29.042Z"
+              "WhenOpened": "2024-09-15T14:40:29.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1072,7 +1095,8 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T10:51:52.263Z"
+              "WhenOpened": "2024-09-16T10:51:52.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1084,7 +1108,8 @@
               "RelativeToolTip": "Models\\BodyweightTarget.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:41:04.811Z"
+              "WhenOpened": "2024-09-15T14:41:04.811Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1096,7 +1121,8 @@
               "RelativeToolTip": "Controllers\\BodyweightController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAcwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:48:17.781Z"
+              "WhenOpened": "2024-09-15T14:48:17.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1108,7 +1134,8 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAxwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:51:01.455Z"
+              "WhenOpened": "2024-09-15T14:51:01.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1120,7 +1147,8 @@
               "RelativeToolTip": "Data\\BodyweightEFStorageService.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:52:22.12Z"
+              "WhenOpened": "2024-09-15T14:52:22.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1132,7 +1160,8 @@
               "RelativeToolTip": "Models\\TimedGoal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:44:34.886Z"
+              "WhenOpened": "2024-09-15T14:44:34.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1144,7 +1173,8 @@
               "RelativeToolTip": "Models\\FitnessUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:41:39.439Z"
+              "WhenOpened": "2024-09-15T14:41:39.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1154,9 +1184,10 @@
               "RelativeDocumentMoniker": "ViewModels\\BodyweightSummaryViewModel.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\ViewModels\\BodyweightSummaryViewModel.cs",
               "RelativeToolTip": "ViewModels\\BodyweightSummaryViewModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wBIAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:23:12.065Z"
+              "WhenOpened": "2024-09-15T15:23:12.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1168,7 +1199,8 @@
               "RelativeToolTip": "Models\\Food.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:42:00.204Z"
+              "WhenOpened": "2024-09-15T14:42:00.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1180,7 +1212,8 @@
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwDoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:15:50.314Z"
+              "WhenOpened": "2024-09-15T15:15:50.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1192,7 +1225,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:14:46.772Z"
+              "WhenOpened": "2024-09-15T15:14:46.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1204,7 +1238,8 @@
               "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-15T17:43:54.493Z"
+              "WhenOpened": "2024-09-15T17:43:54.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1214,9 +1249,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:28:46.12Z"
+              "WhenOpened": "2024-09-15T15:28:46.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1226,9 +1262,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:31:17.036Z"
+              "WhenOpened": "2024-09-15T15:31:17.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1240,7 +1277,8 @@
               "RelativeToolTip": "Models\\ServingUnit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:43:58.288Z"
+              "WhenOpened": "2024-09-15T14:43:58.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1252,7 +1290,8 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-15T15:16:17.458Z"
+              "WhenOpened": "2024-09-15T15:16:17.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1264,7 +1303,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T18:01:51.886Z"
+              "WhenOpened": "2024-09-15T18:01:51.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1276,7 +1316,8 @@
               "RelativeToolTip": "Models\\NutritionTarget.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:43:35.107Z"
+              "WhenOpened": "2024-09-15T14:43:35.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1288,7 +1329,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:55.648Z"
+              "WhenOpened": "2024-09-15T15:33:55.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1300,7 +1342,8 @@
               "RelativeToolTip": "Models\\FoodRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:42:18.798Z"
+              "WhenOpened": "2024-09-15T14:42:18.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1312,7 +1355,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:35:07.757Z"
+              "WhenOpened": "2024-09-15T15:35:07.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1324,7 +1368,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:35:13.695Z"
+              "WhenOpened": "2024-09-15T15:35:13.695Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1336,7 +1381,8 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:35:32.493Z"
+              "WhenOpened": "2024-09-15T15:35:32.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1348,7 +1394,8 @@
               "RelativeToolTip": "Controllers\\NutritionController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAqwDsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:49:49.314Z"
+              "WhenOpened": "2024-09-15T14:49:49.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1358,9 +1405,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:34:27.573Z"
+              "WhenOpened": "2024-09-15T15:34:27.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1372,7 +1420,8 @@
               "RelativeToolTip": "Views\\Nutrition\\summary.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T15:34:14.68Z"
+              "WhenOpened": "2024-09-15T15:34:14.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1382,9 +1431,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ShowRecoveryCodes.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:34:01.683Z"
+              "WhenOpened": "2024-09-15T15:34:01.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1394,9 +1444,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:49.513Z"
+              "WhenOpened": "2024-09-15T15:33:49.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1408,7 +1459,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:00.747Z"
+              "WhenOpened": "2024-09-15T15:30:00.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1418,9 +1470,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:43.615Z"
+              "WhenOpened": "2024-09-15T15:33:43.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1430,9 +1483,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:37.772Z"
+              "WhenOpened": "2024-09-15T15:33:37.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1442,9 +1496,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:28.819Z"
+              "WhenOpened": "2024-09-15T15:33:28.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1454,9 +1509,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:10.268Z"
+              "WhenOpened": "2024-09-15T15:33:10.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1466,9 +1522,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:33:04.682Z"
+              "WhenOpened": "2024-09-15T15:33:04.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1478,9 +1535,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:32:56.196Z"
+              "WhenOpened": "2024-09-15T15:32:56.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1492,7 +1550,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:32:20.789Z"
+              "WhenOpened": "2024-09-15T15:32:20.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1502,9 +1561,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:32:14.8Z"
+              "WhenOpened": "2024-09-15T15:32:14.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1514,9 +1574,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:32:08.331Z"
+              "WhenOpened": "2024-09-15T15:32:08.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1526,9 +1587,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:31:27.086Z"
+              "WhenOpened": "2024-09-15T15:31:27.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1538,9 +1600,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:50.953Z"
+              "WhenOpened": "2024-09-15T15:30:50.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1550,9 +1613,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:45.708Z"
+              "WhenOpened": "2024-09-15T15:30:45.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1562,9 +1626,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:32.024Z"
+              "WhenOpened": "2024-09-15T15:30:32.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1574,9 +1639,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:27.024Z"
+              "WhenOpened": "2024-09-15T15:30:27.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1586,9 +1652,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBJwBAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:20.417Z"
+              "WhenOpened": "2024-09-15T15:30:20.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1598,9 +1665,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Error.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:30:14.132Z"
+              "WhenOpened": "2024-09-15T15:30:14.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1610,9 +1678,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:55.913Z"
+              "WhenOpened": "2024-09-15T15:29:55.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1622,9 +1691,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:48.774Z"
+              "WhenOpened": "2024-09-15T15:29:48.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1634,9 +1704,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:40.239Z"
+              "WhenOpened": "2024-09-15T15:29:40.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1646,9 +1717,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:31.821Z"
+              "WhenOpened": "2024-09-15T15:29:31.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1658,9 +1730,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:21.475Z"
+              "WhenOpened": "2024-09-15T15:29:21.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1670,9 +1743,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAIBJwAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:14.209Z"
+              "WhenOpened": "2024-09-15T15:29:14.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1682,9 +1756,10 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
               "ToolTip": "C:\\GIT\\Capstone\\Fitnesstracker\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T15:29:05.432Z"
+              "WhenOpened": "2024-09-15T15:29:05.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1696,7 +1771,8 @@
               "RelativeToolTip": "Controllers\\WorkoutController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:50:20.142Z"
+              "WhenOpened": "2024-09-15T14:50:20.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1708,7 +1784,8 @@
               "RelativeToolTip": "Models\\WorkoutSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:47:05.323Z"
+              "WhenOpened": "2024-09-15T14:47:05.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1720,7 +1797,8 @@
               "RelativeToolTip": "Models\\WorkoutPlan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:46:42.554Z"
+              "WhenOpened": "2024-09-15T14:46:42.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1732,7 +1810,8 @@
               "RelativeToolTip": "Models\\WorkoutActivity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:46:16.988Z"
+              "WhenOpened": "2024-09-15T14:46:16.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1744,7 +1823,8 @@
               "RelativeToolTip": "Models\\WeightliftingProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:45:49.668Z"
+              "WhenOpened": "2024-09-15T14:45:49.668Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1756,7 +1836,8 @@
               "RelativeToolTip": "Models\\WeightliftingGoal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:45:24.532Z"
+              "WhenOpened": "2024-09-15T14:45:24.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -1768,7 +1849,8 @@
               "RelativeToolTip": "Models\\TimedProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T14:44:57.741Z"
+              "WhenOpened": "2024-09-15T14:44:57.741Z",
+              "EditorCaption": ""
             }
           ]
         },

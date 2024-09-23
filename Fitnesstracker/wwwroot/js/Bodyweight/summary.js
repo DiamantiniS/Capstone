@@ -64,3 +64,9 @@
         console.error("Errore nel caricamento dei dati per il grafico:", error);
     }
 }
+
+$(document).ready(() => {
+    setupGraph(7, "#WeekGraph");
+    setupGraph(30, "#MonthGraph");
+});
+
