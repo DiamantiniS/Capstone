@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Fitnesstracker.bundle.scp.css"
     },
     {
+      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\Best Workout Music 2023 \uD83D\uDD25 Gym Motivation Music Mix 2023.mp4",
+      "PackagePath": "staticwebassets\\Best Workout Music 2023 \uD83D\uDD25 Gym Motivation Music Mix 2023.mp4"
+    },
+    {
       "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\1000_F_179536830_p65hwhx89hjEVKtMhWumYpdbwaDGRkC7.jpg",
       "PackagePath": "staticwebassets\\css\\1000_F_179536830_p65hwhx89hjEVKtMhWumYpdbwaDGRkC7.jpg"
     },
@@ -15,58 +19,6 @@
     {
       "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\allenamento-donna-palestra-removebg-preview.png",
       "PackagePath": "staticwebassets\\css\\allenamento-donna-palestra-removebg-preview.png"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\reset.css",
-      "PackagePath": "staticwebassets\\css\\base\\reset.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\typographgy.css",
-      "PackagePath": "staticwebassets\\css\\base\\typographgy.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\base\\variables.css",
-      "PackagePath": "staticwebassets\\css\\base\\variables.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\buttons.css",
-      "PackagePath": "staticwebassets\\css\\components\\buttons.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\cards.css",
-      "PackagePath": "staticwebassets\\css\\components\\cards.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\charts.css",
-      "PackagePath": "staticwebassets\\css\\components\\charts.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\navbar.css",
-      "PackagePath": "staticwebassets\\css\\components\\navbar.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\components\\sidebar.css",
-      "PackagePath": "staticwebassets\\css\\components\\sidebar.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\layout\\footer.css",
-      "PackagePath": "staticwebassets\\css\\layout\\footer.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\layout\\header.css",
-      "PackagePath": "staticwebassets\\css\\layout\\header.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\layout\\main-content.css",
-      "PackagePath": "staticwebassets\\css\\layout\\main-content.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\pages\\contact.css",
-      "PackagePath": "staticwebassets\\css\\pages\\contact.css"
-    },
-    {
-      "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\pages\\home.css",
-      "PackagePath": "staticwebassets\\css\\pages\\home.css"
     },
     {
       "Id": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\site.css",

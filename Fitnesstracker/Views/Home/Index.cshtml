@@ -4,6 +4,10 @@
 
 <!-- Hero Section -->
 <header class="header" id="header">
+    <video autoplay loop muted>
+        <source src="/Best Workout Music 2023 🔥 Gym Motivation Music Mix 2023.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
     <div class="container text-center header__content">
         <h1>Track Your Fitness Journey</h1>
         <h2>Your Success Begins Here</h2>
@@ -19,7 +23,7 @@
         <h3>Track Your Progress</h3>
         <div class="row">
             <div class="col-md-6">
-                <img src="/css/allenamento-donna-palestra-removebg-preview.png" class="img-fluid rounded" alt="App Image">
+                <img src="/img/allenamento-donna-palestra-removebg-preview.png" class="img-fluid rounded" alt="App Image">
             </div>
             <div class="col-md-6">
                 <p>Track your weight, record personal workout milestones, and stay on top of your macronutrient intake.</p>
@@ -81,36 +85,67 @@
     </div>
 </div>
 
-<!-- Contact Section -->
-<div class="contact-section py-5 bg-light">
+<section class="progress-section py-5 bg-light text-center">
     <div class="container">
-        <div class="text-center mb-4">
-            <h2>Contact Us</h2>
-            <p>For More Information</p>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <p><i class="bi bi-telephone-fill"></i> (123) 456-7890</p>
-                <p><i class="bi bi-envelope-fill"></i> info@fitnesstracker.com</p>
-                <p><i class="bi bi-geo-alt-fill"></i> 123 Fitness Street, Fit City</p>
+        <h2>Your Fitness Journey</h2>
+        <div class="row justify-content-center">
+            <!-- Progress Circle -->
+            <div class="col-md-3">
+                <div class="progress-circle">
+                    <svg viewBox="0 0 36 36" class="circular-chart">
+                        <path class="circle-bg"
+                              d="M18 2.0845
+                                 a 15.9155 15.9155 0 0 1 0 31.831
+                                 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                        <path class="circle"
+                              stroke-dasharray="70, 100"
+                              d="M18 2.0845
+                                 a 15.9155 15.9155 0 0 1 0 31.831
+                                 a 15.9155 15.9155 0 0 1 0 -31.831" />
+                        <text x="18" y="20.35" class="percentage">70%</text>
+                    </svg>
+                    <h4>Workouts Completed</h4>
+                </div>
             </div>
-            <div class="col-md-6">
-                <form>
-                    <div class="form-group">
-                        <input type="text" class="form-control mb-2" placeholder="Name">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control mb-2" placeholder="Email">
-                    </div>
-                    <div class="form-group">
-                        <textarea class="form-control" rows="3" placeholder="Message"></textarea>
-                    </div>
-                    <button type="submit" class="btn btn__primary">Send Message</button>
-                </form>
+
+            <!-- Achievement Badges -->
+            <div class="col-md-3">
+                <div class="achievement-badges">
+                    <img src="/img/badge-1.png" alt="Achievement Badge" class="img-fluid mb-2">
+                    <h4>New Record!</h4>
+                    <p>2000 Calories Burned</p>
+                </div>
             </div>
+
+            <!-- Goal Tracking Accordion -->
+            <div class="col-md-3">
+                <div class="goal-tracking">
+                    <h4>Current Goals</h4>
+                    <div class="accordion" id="goalAccordion">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#goal1" aria-expanded="true" aria-controls="goal1">
+                                        Lose 5kg
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="goal1" class="collapse show" aria-labelledby="headingOne" data-parent="#goalAccordion">
+                                <div class="card-body">
+                                    Progress: 3kg down, 2kg to go!
+                                </div>
+                            </div>
+                        </div>
+                        <!-- More goals can be added similarly -->
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
-</div>
+</section>
+
+
 
 <!-- Footer Section -->
 <footer class="footer-section bg-dark text-light py-3">
