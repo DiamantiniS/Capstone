@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -80,7 +81,26 @@ namespace Fitnesstracker.Controllers
                 return BadRequest();
 
             WorkoutSession session = plan.Sessions[SessionIndex];
+            ViewBag.Exercises = new SelectList(await dbContext.Exercises.ToListAsync(), "Id", "Name");
             return View(session);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AddActivity(long PlanID, int SessionIndex, WorkoutActivity activity)
+        {
+            var workoutPlan = await dbContext.WorkoutPlans.FindAsync(PlanID);
+            if (workoutPlan == null || workoutPlan.Sessions == null || SessionIndex >= workoutPlan.Sessions.Length)
+            {
+                return NotFound();
+            }
+
+            var session = workoutPlan.Sessions[SessionIndex];
+            session.Activities.Add(activity);
+
+            dbContext.Update(workoutPlan);
+            await dbContext.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Session), new { PlanID, SessionIndex });
         }
     }
 }

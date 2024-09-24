@@ -23,6 +23,7 @@ namespace Fitnesstracker.Data
         public DbSet<TimedProgress> TimedProgressRecords { get; set; }
         public DbSet<WorkoutPlan> WorkoutPlans { get; set; }
 
+        public DbSet<Exercise> Exercises { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {

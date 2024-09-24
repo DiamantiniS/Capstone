@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5yPdxwTpVIb4LqK20UaEV6971KjWE+7w6xNOlbDUQWs=",
+  "Hash": "AYeTozQytjx4+cI1CsRqXKGMepK5PB3StTuQSBnU3hk=",
   "Source": "Fitnesstracker",
   "BasePath": "_content/Fitnesstracker",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Best Workout Music 2023 \uD83D\uDD25 Gym Motivation Music Mix 2023.mp4"
+    },
+    {
+      "Identity": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\crossfit-equipment-on-floor-gym-260nw-756989800.webp",
+      "SourceId": "Fitnesstracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\",
+      "BasePath": "_content/Fitnesstracker",
+      "RelativePath": "crossfit-equipment-on-floor-gym-260nw-756989800.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\crossfit-equipment-on-floor-gym-260nw-756989800.webp"
     },
     {
       "Identity": "C:\\GIT\\Capstone\\Fitnesstracker\\wwwroot\\css\\1000_F_179536830_p65hwhx89hjEVKtMhWumYpdbwaDGRkC7.jpg",

@@ -186,6 +186,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9keXdlaWdodFxzdW1tYXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/GIT/Capstone/Fitnesstracker/Views/Exercises/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GIT/Capstone/Fitnesstracker/Views/Exercises/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/GIT/Capstone/Fitnesstracker/Views/Goal/editgoal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR29hbFxlZGl0Z29hbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

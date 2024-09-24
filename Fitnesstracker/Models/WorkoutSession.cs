@@ -1,16 +1,14 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿// File: Models/WorkoutSession.cs
+using System.ComponentModel.DataAnnotations;
 
 namespace Fitnesstracker.Models
 {
     public class WorkoutSession
     {
         [Required]
-        [MaxLength(30)]
-        public string Name { get; set; }
-        [Required]
-        [Range(1, 28)]
-        public int DayNumber { get; set; } = 1;
+        [MaxLength(100)]
+        public string Name { get; set; } // Aggiunta della proprietà Name
 
-        public WorkoutActivity[] Activities { get; set; }
+        public List<WorkoutActivity> Activities { get; set; } = new List<WorkoutActivity>();
     }
 }

@@ -111,4 +111,3 @@ function formPreSubmit() {
 
     $("#SessionJSONInput").val(JSON.stringify(sessions));
 }
-
