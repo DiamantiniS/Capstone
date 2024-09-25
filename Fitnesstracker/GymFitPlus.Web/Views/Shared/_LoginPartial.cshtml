@@ -1,0 +1,20 @@
+﻿<ul class="navbar-nav">
+
+    @if (SignInManager.IsSignedIn(User))
+    {
+         <!--<li class="nav__items">
+             <a asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Settings</a>
+        </li>-->
+        <li class="nav__items">
+            <form class="form-inline" asp-area="" asp-controller="Account" asp-action="Logout" method="post">
+                <button type="submit" class="btn btn-link text-light">Logout</button>
+            </form>
+        </li>     
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" asp-area="" asp-controller="Account" asp-action="LogInSignUp">Log In / Sign Up</a>
+        </li>
+    }
+</ul>

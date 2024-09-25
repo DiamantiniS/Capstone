@@ -1,0 +1,47 @@
+﻿@model IEnumerable<FitnessProgramFormViewModel>
+@{
+    ViewBag.Title = "My programs";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/AddExercise.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/StartWorkout.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/FitnessProgramIndex.css" asp-append-version="true" />
+}
+
+
+
+<header class="text-center">
+    <h1>My Fitness Programs</h1>
+</header>
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-3 center-div">
+            <a class="btnn nav-link d-flex justify-content-center" asp-area="" asp-controller="FitnessProgram" asp-action="AddProgram">Create program</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row text-center">
+        <div class="row justify-content-center">
+            @foreach (var item in Model)
+            {
+                <div class="card col-md-2 box">
+                    <a asp-area="" asp-controller="FitnessProgram" asp-action="Details" asp-route-id="@item.Id" class="btn linkbtn">
+                        <div>
+                            <div class="card-body text-light">
+                                <h3 class="card-title">@item.Name</h3>
+                                <p class="card-text"> Have @item.ExerciseCount exercise.</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

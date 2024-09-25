@@ -1,0 +1,169 @@
+html {
+    font-size: 14px;
+}
+.example {
+    -webkit-transform: rotate(30deg); /* Chrome, Safari, and Opera */
+    -ms-transform: rotate(30deg); /* IE 9 */
+    -moz-transform: rotate(30deg); /* Firefox */
+    transform: rotate(30deg); /* Standard syntax */
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+body {
+    margin-bottom: 60px;
+    background: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 1.7;
+    color: #ffffff;
+    background-color: #000000;
+    overflow-x: hidden;
+    background-image: url('/kettlebell-fitness-still-life.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+
+.main {
+    margin-top: 30px;
+}
+
+
+#guestNavBar {
+    background: #000000;
+}
+
+    #guestNavBar a {
+        color: #ffffff;
+        font-weight: bold;
+    }
+
+    #guestNavBar button {
+        color: #ffffff;
+        font-weight: bold;
+    }
+
+        #guestNavBar a:hover {
+            color: #f1d300;
+        }
+
+        #guestNavBar button:hover {
+            color: #f1d300;
+        }
+
+        #guestNavBar a #fit {
+            color: #e21212;
+        }
+
+.GymNameButton {
+    position: relative;
+    display: block;
+    top: -23px;
+    left: -10px;
+    padding-left: 25px;
+    padding-right: 15px;
+    transition: all 0.3s ease;
+    margin-left: 25px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 100;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+    .GymNameButton a {
+        text-decoration: none;
+        color: white;
+    }
+
+        .GymNameButton a:hover {
+            color: #f1d300;
+        }
+
+        .GymNameButton a #fit {
+            color: #e21212;
+        }
+
+footer {
+    background: #000000;
+    width: 100%;
+}
+
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px #f1d300;
+}
+
+
+.back-arrow {
+    font-size: 15px;
+    border-radius: 6px;
+    height: 40px;
+    font-weight: 600;
+    text-transform: uppercase;
+    -webkit-transition: all 200ms linear;
+    transition: all 200ms linear;
+    letter-spacing: 1px;
+    border: none;
+    background-color: #f1d300;
+    color: #ffffff;
+    box-shadow: 0 8px 24px 0 rgba(255,235,167,.2);
+}
+
+    .back-arrow:active,
+    .back-arrow:focus {
+        background-color: #e21212;
+        color: #f1d300;
+        box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
+    }
+
+    .back-arrow:hover {
+        background-color: #e21212;
+        color: #f1d300;
+        box-shadow: 0 8px 24px 0 rgba(16,39,112,.2);
+    }
+
+@media only screen and (min-width: 1340px) {
+
+    .back-arrow {
+        position: absolute;
+        top: 10px;
+        left: 210px;
+    }
+}
+
+@media only screen and (max-width: 1340px) {
+    .back-arrow {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+}
+
+#privacyH1 {
+    color: #e21212;
+}
